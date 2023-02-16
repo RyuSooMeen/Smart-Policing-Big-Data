@@ -1,1 +1,5 @@
-# Smart-Policing-Big-Data
+# 👮 Smart-Policing-Big-Data
+### 공모전 : 치안 데이터 활용 데이터 분석 및 시각화 공모전
+### 보고서 제출일 : 230215 수
+### 활용 데이터 및 출처 
+   #### - 제공된 데이터(KP2021, KP2020, NPA202
